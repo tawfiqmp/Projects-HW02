@@ -1,0 +1,53 @@
+.header {
+    background-color: purple;
+    background-image: url(http://freetwitterheaders.com/wp-content/uploads/2012/09/Golden-Gate-Bridge.jpg);
+    min-height: 350px;
+    background-size: cover;
+    background-position: 0px 5%;
+
+}
+
+.nav {
+	border:solid;
+	border-width:2px;
+	border-spacing:10px;
+
+}
+
+.container {
+	text-align: center;
+	max-width: 800px;
+	margin: auto;
+}
+
+.left-column {
+	display: inline-block;
+	min-height: 200px;
+	background-color: pink;
+	width:30%;
+	vertical-align: top;
+}
+
+h1 {
+	font-size:40px;
+	font-weight:bold;
+
+}
+h2 {
+	font-size:40x;
+	font-weight:bold;
+
+}
+
+.right-column {
+	display: inline-block;
+	min-height: 1000px;
+	background-color: red;
+	width: 69%;
+	vertical-align: top;
+}
+
+.footer {
+	background-color:green;
+
+}
