@@ -1,5 +1,4 @@
 .header {
-    background-color: purple;
     background-image: url(http://freetwitterheaders.com/wp-content/uploads/2012/09/Golden-Gate-Bridge.jpg);
     min-height: 350px;
     background-size: cover;
@@ -23,7 +22,6 @@
 .left-column {
 	display: inline-block;
 	min-height: 200px;
-	background-color: pink;
 	width:30%;
 	vertical-align: top;
 }
@@ -42,12 +40,10 @@ h2 {
 .right-column {
 	display: inline-block;
 	min-height: 1000px;
-	background-color: red;
 	width: 69%;
 	vertical-align: top;
 }
 
 .footer {
-	background-color:green;
 
 }
